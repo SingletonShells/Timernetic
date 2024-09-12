@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234971050459",
+    "project_id": "timernetic-19db0",
+    "storage_bucket": "timernetic-19db0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234971050459:android:15f4fa5813d58c813ef7fe",
+        "android_client_info": {
+          "package_name": "com.example.timernetic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPno5X2UHQutwLE80I7kGc6kk_00etMio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

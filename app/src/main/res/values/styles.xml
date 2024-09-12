@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TimePickerStyle" parent="Widget.MaterialComponents.TimePicker">
+        <item name="android:headerBackground">#D7319A56</item>
+    </style>
+    <style name="NavDrawerStyle" parent="@style/Widget.Design.NavigationView">
+        <item name="android:background">@color/teal_700</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Timernetic</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email_address">Enter your email here</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_your_password">confirm your password</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="selected_time">Minimum Goal Is</string>
+    <string name="selected_max_time">Maximum Goal Is</string>
+</resources>
